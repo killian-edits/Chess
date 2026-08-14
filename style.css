@@ -31,3 +31,9 @@ body {
 .square.dark{
     background-color: #4b7399;
 }
+
+.piece {
+    width: 100px;
+    height: 100px; 
+    cursor: grab;
+}
